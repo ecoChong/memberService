@@ -14,6 +14,7 @@ class MemberControllerTest {
     void getMemberTest(){
 
         Member member = new Member("userA","정총명");
+        System.out.println("test");
         Assertions.assertThat(member.getName()).isEqualTo("정총밍");
 
     }
