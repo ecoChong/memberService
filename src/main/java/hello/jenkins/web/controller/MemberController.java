@@ -1,4 +1,4 @@
-package hello.jenkins.controller;
+package hello.jenkins.web.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
